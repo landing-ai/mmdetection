@@ -190,7 +190,7 @@ if __name__ == '__main__':
     setup(
         name='avi-mmdet',
         version=get_version(),
-        description='OpenMMLab Detection Toolbox and Benchmark',
+        description='Custom OpenMMLab Detection Toolbox and Benchmark',
         long_description=readme(),
         long_description_content_type='text/markdown',
         author='MMDetection Contributors',
